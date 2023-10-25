@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas==1.5.3
+pyodbc==5.0.1
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit_learn==1.2.1
+catboost==1.2.2
+fastparquet==2023.2.0
+tqdm==4.65.0
