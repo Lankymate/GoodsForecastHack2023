@@ -47,7 +47,7 @@
 
 Проблема, к счастью, решалась интенсивным гуглением, но вот у большинства участников по этому поводу началось лютое-бешеное горение, выражавшееся в бомбежке чатика с просьбами скинуть готовые CSV или ссылку на диск с ними (те самые труъ Дата Саентисты). Породив в собственной голове достаточное количество мемов на эту тему, я эзакрыл чатик и больше не открывал его до конца соревнования. Вот и они:
 ![image](https://github.com/Lankymate/GoodsForecastHack2023/assets/91146419/08e3b6d2-594d-4092-b3c2-4549a48fa207)
-![image](https://github.com/Lankymate/GoodsForecastHack2023/assets/91146419/e61e78da-bead-4e65-b83b-b399540c0c69)
+![image](https://github.com/Lankymate/GoodsForecastHack2023/assets/91146419/5d69b3bb-aad3-4604-8f83-ca09a02daab5)
 ![image](https://github.com/Lankymate/GoodsForecastHack2023/assets/91146419/5b8618af-cdf8-40c2-95d5-8756ad6f5809)
 
 ### Решение
